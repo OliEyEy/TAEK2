@@ -44,4 +44,7 @@
 |Íhlutir|Mitt val|Verð|
 |-------|--------|----|
 |Móðurborð|Gigabyte Aorus S1151 GA-Z270X-Gaming 7 móðurborð|49.990 kr.|
-|CPU|Kemur í ljós|0 kr.|
+|Örgjörvi|Intel Core I5-6400 Quad Core örgjörvi|26.990 kr.|
+|Vinnsluminni|ADATA 16GB DDR4 2400MHz (2x8GB) XPG Z1 vinnsluminni CL16|19.990 kr.|
+|Skjákort|Gigabyte GTX 1060 D5 skjákort 6GB GDDR5|49.990 kr.|
+|SSD diskur|1TB M.2 PCIe Gen2 x4 NVMe SSD Plextor M8PeG|99.990 kr.|
