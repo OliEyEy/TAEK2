@@ -12,10 +12,18 @@
 ##### 3. Hvað er fyrirbyggjandi viðhald?
 ###### svar - Það er að fara yfir tölvubúnaðinn, hreinsa hann og skipta út því sem þarf þess reglulega.
 ##### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum
-#####  við til að verjast því þegar unnið er með tölvubúnað?
-###### svar - ESD stendur fyrir "electronic discharge". ESD er þegar stöðurafmagn myndast við að
-###### tveir hlutir snertast. Það er hægt að fá "antistatic" armband til að nota þegar maður á
-###### við tölvuna og/eða "antistatic" mottu til að leggja tölvuna á.
+##### - við til að verjast því þegar unnið er með tölvubúnað?
+###### svar - ESD stendur fyrir "electronic discharge". ESD er þegar stöðurafmagn myndast við
+###### það að tveir hlutir snertast. Það er hægt að fá "antistatic" armband til að nota þegar
+###### maður á við tölvuna og/eða "antistatic" mottu til að leggja tölvuna á.
 ##### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ###### svar - Það þarf að athuga hvort spennugjafinn virki með móðuborðinu og að hann gefi næga
 ###### spennu í alla tölvu hlutina.
+##### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+###### svar -
+###### 1. Identify the problem.
+###### 2. Establish a theory of probable cause.
+###### 3. Test your theories to determine the cause of the problem.
+###### 4. Establish a plan of action to resolve the problem and implement the soloution.
+###### 5. Verify full functionality and, if applicable, implement preventive measures.
+###### 6. Document your findings, actions, and outcomes.
