@@ -12,7 +12,7 @@
 ##### 3. Hvað er fyrirbyggjandi viðhald?
 ###### svar - Það er að fara yfir tölvubúnaðinn, hreinsa hann og skipta út því sem þarf þess reglulega.
 ##### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum
-##### - við til að verjast því þegar unnið er með tölvubúnað?
+##### -  við til að verjast því þegar unnið er með tölvubúnað?
 ###### svar - ESD stendur fyrir "electronic discharge". ESD er þegar stöðurafmagn myndast við
 ###### það að tveir hlutir snertast. Það er hægt að fá "antistatic" armband til að nota þegar
 ###### maður á við tölvuna og/eða "antistatic" mottu til að leggja tölvuna á.
@@ -27,3 +27,9 @@
 ###### 4. Establish a plan of action to resolve the problem and implement the soloution.
 ###### 5. Verify full functionality and, if applicable, implement preventive measures.
 ###### 6. Document your findings, actions, and outcomes.
+##### 7. Hver er munurinn æa opinn (e. open ended) og lokaðri (closed ended) spurningu?
+##### -  Nefnið dæmi um báðar gerðir af spurningum.
+###### svar - opinn spurning gefur manneskju frelsi til að svara nokkurn veginn eins og hún vill
+###### en lokuð spurning gefur manneskju bara tvo svarmöguleika, já eða nei. Dæmi um opna
+###### spurningu er t.d "Hvernig ´hefur dagurinn þinn verið?" og dæmi um lokaða spurningu er t.d
+###### "Var dagurinn þinn góður?"
