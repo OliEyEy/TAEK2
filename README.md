@@ -36,3 +36,5 @@
 ##### 8. Hvað er jaðartæki?
 ###### svar - Jaðartæki eru tæki sem tengjast tölvunni með snúru eða einhverju þráðlausu eins og
 ###### þráðlausum usb eða "bluetooth" eins og lyklaborð, tölvumús eða hátalarar.
+##### 9. Nefndu þrjú dæmi um inntaks tæki.
+###### svar - Lyklaborð, Hljóðnemi, Vefmyndavél
