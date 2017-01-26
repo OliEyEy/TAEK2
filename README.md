@@ -38,3 +38,10 @@
 ###### þráðlausum usb eða "bluetooth" eins og lyklaborð, tölvumús eða hátalarar.
 ##### 9. Nefndu þrjú dæmi um inntaks tæki.
 ###### svar - Lyklaborð, Hljóðnemi, Vefmyndavél
+##### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+##### -  leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+##### -  fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+|Íhlutir|Mitt val|Verð|
+|-------|--------|----|
+|Móðurborð|Gigabyte Aorus S1151 GA-Z270X-Gaming 7 móðurborð|49.990 kr.|
+|CPU|Kemur í ljós|0 kr.|
