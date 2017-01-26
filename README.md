@@ -31,5 +31,8 @@
 ##### -  Nefnið dæmi um báðar gerðir af spurningum.
 ###### svar - opinn spurning gefur manneskju frelsi til að svara nokkurn veginn eins og hún vill
 ###### en lokuð spurning gefur manneskju bara tvo svarmöguleika, já eða nei. Dæmi um opna
-###### spurningu er t.d "Hvernig ´hefur dagurinn þinn verið?" og dæmi um lokaða spurningu er t.d
+###### spurningu er t.d "Hvernig hefur dagurinn þinn verið?" og dæmi um lokaða spurningu er t.d
 ###### "Var dagurinn þinn góður?"
+##### 8. Hvað er jaðartæki?
+###### svar - Jaðartæki eru tæki sem tengjast tölvunni með snúru eða einhverju þráðlausu eins og
+###### þráðlausum usb eða "bluetooth" eins og lyklaborð, tölvumús eða hátalarar.
